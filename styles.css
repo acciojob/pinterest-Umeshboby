@@ -1,6 +1,7 @@
 /*  your css code here. If applicable */
 .container{
-	background:lightgray;
+	width:500px;
+	height:200px;
 	display:flex;
 	justify-content:center;
 	align-items:center;
@@ -15,7 +16,10 @@ img{
 	background:red;
 	color:white;
 	border-radius:10px;
+	
 }
 .hero{
-	padding:20px
+	
+	padding-top:30%;
+	padding-bottom:30%;
 }
