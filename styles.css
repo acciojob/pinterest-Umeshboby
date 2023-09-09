@@ -6,7 +6,7 @@
 .img{
 	width:50vw;
 	height:40vh;
-	  object-fit:fill;
+	  object-fit:cover;
 }
 .div{
 	display:flex;
