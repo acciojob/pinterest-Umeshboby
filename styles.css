@@ -3,10 +3,13 @@
 	justify-content:space-around;
 	align-items:center;
 }
-.img{
+.image{
 	width:50vw;
 	height:40vh;
-	  object-fit:cover;
+	overflow:hidden;
+}
+.image>img{
+	object-fit: cover;
 }
 .div{
 	display:flex;
